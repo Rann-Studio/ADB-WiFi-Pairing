@@ -7,7 +7,7 @@ This is a Python script to facilitate the pairing of Android devices with ADB ov
 
 ## Installation
 - Download and install Python 3 from the provided link.
-- Download and install ADB from the provided link.
+- Download ADB from the provided link and add to your system's PATH.
 - Clone or download this repository.
 
 ## Setup
@@ -23,5 +23,3 @@ pip install -r requirements.txt
 ```shell
 python ADBWiFiPairing.py
 ```
-
-Please note that you need to have adb in your system's PATH for this script to work.
